@@ -1,4 +1,4 @@
-# Ansible ELK Playbook
+# Ansible ELK Playbook (October 15 2020)
  
 This playbook is for setting up version 5.x of the ELK Stack on a remote server. 
 
